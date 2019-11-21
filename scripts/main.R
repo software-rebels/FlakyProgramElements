@@ -1,4 +1,4 @@
-source("./plots.R")
+source("./scripts/plots.R")
 
 generate_plots <- function(){
 
